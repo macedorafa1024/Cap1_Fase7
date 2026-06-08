@@ -1,0 +1,28 @@
+# FarmTech Solutions - Fase 7
+# Instalar: pip install -r requirements.txt
+
+# Dashboard
+streamlit>=1.35.0
+plotly>=5.20.0
+
+# Data Science / ML
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.4.0
+
+# API / Web
+requests>=2.31.0
+
+# Banco de dados (SQLite nativo no Python)
+
+# AWS
+boto3>=1.34.0
+python-dotenv>=1.0.0
+
+# Visão Computacional (instalar conforme disponibilidade)
+# pip install ultralytics   # YOLOv8
+# pip install opencv-python # OpenCV
+
+# Análise em R (instalar separadamente)
+# https://cran.r-project.org/
+# install.packages(c("jsonlite"))

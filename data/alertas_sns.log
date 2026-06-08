@@ -1,0 +1,38 @@
+[LOG_LOCAL] 2026-06-04 21:09:35 | pH ALCALINO | ALERTA: pH do solo em 7.68 — ALCALINO. Verificar calagem. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 21:09:35 | pH ALCALINO | ALERTA: pH do solo em 7.92 — ALCALINO. Verificar calagem. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 21:10:25 | PRAGA DETECTADA | DETECÇÃO DE PRAGA: ferrugem_asiatica detectada no desconhecido com 56.1% de confiança. Acionar equipe de manejo fitossanitário.
+[LOG_LOCAL] 2026-06-04 21:10:25 | PRAGA DETECTADA | DETECÇÃO DE PRAGA: mosca_branca detectada no desconhecido com 90.1% de confiança. Acionar equipe de manejo fitossanitário.
+[LOG_LOCAL] 2026-06-04 21:10:25 | PRAGA DETECTADA | DETECÇÃO DE PRAGA: ferrugem_asiatica detectada no desconhecido com 65.1% de confiança. Acionar equipe de manejo fitossanitário.
+[LOG_LOCAL] 2026-06-04 21:10:25 | PRAGA DETECTADA | DETECÇÃO DE PRAGA: lagarta_da_soja detectada no desconhecido com 63.2% de confiança. Acionar equipe de manejo fitossanitário.
+[LOG_LOCAL] 2026-06-04 21:10:25 | PRAGA DETECTADA | DETECÇÃO DE PRAGA: percevejo detectada no desconhecido com 95.7% de confiança. Acionar equipe de manejo fitossanitário.
+[LOG_LOCAL] 2026-06-04 22:21:35 | UMIDADE CRÍTICA | ALERTA CRÍTICO: Umidade do solo em 35.0% — MUITO ABAIXO do mínimo de 40%. Acione irrigação IMEDIATAMENTE.
+[LOG_LOCAL] 2026-06-04 22:21:35 | pH ÁCIDO | ALERTA: pH do solo em 5.0 — ÁCIDO. Aplicar calcário. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 22:21:35 | TEMPERATURA ALTA | AVISO: Temperatura de 39.0°C — acima do limite (38°C). Risco de estresse hídrico.
+[LOG_LOCAL] 2026-06-04 22:27:55 | pH ÁCIDO | ALERTA: pH do solo em 5.11 — ÁCIDO. Aplicar calcário. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 22:27:55 | pH ALCALINO | ALERTA: pH do solo em 7.69 — ALCALINO. Verificar calagem. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 22:27:55 | pH ÁCIDO | ALERTA: pH do solo em 5.33 — ÁCIDO. Aplicar calcário. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 22:27:55 | pH ALCALINO | ALERTA: pH do solo em 7.63 — ALCALINO. Verificar calagem. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 22:27:55 | pH ÁCIDO | ALERTA: pH do solo em 5.47 — ÁCIDO. Aplicar calcário. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 22:27:55 | pH ALCALINO | ALERTA: pH do solo em 7.82 — ALCALINO. Verificar calagem. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 22:28:01 | pH ÁCIDO | ALERTA: pH do solo em 5.45 — ÁCIDO. Aplicar calcário. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 22:28:14 | pH ALCALINO | ALERTA: pH do solo em 7.68 — ALCALINO. Verificar calagem. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 22:28:25 | pH ALCALINO | ALERTA: pH do solo em 7.68 — ALCALINO. Verificar calagem. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 22:28:25 | pH ALCALINO | ALERTA: pH do solo em 7.92 — ALCALINO. Verificar calagem. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 22:28:36 | pH ALCALINO | ALERTA: pH do solo em 7.73 — ALCALINO. Verificar calagem. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 22:28:36 | pH ÁCIDO | ALERTA: pH do solo em 5.3 — ÁCIDO. Aplicar calcário. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 22:28:36 | pH ALCALINO | ALERTA: pH do solo em 7.69 — ALCALINO. Verificar calagem. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 22:28:36 | pH ALCALINO | ALERTA: pH do solo em 7.6 — ALCALINO. Verificar calagem. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 22:28:36 | pH ALCALINO | ALERTA: pH do solo em 7.63 — ALCALINO. Verificar calagem. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 22:28:36 | pH ALCALINO | ALERTA: pH do solo em 7.51 — ALCALINO. Verificar calagem. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 22:31:18 | PRAGA DETECTADA | DETECÇÃO DE PRAGA: ferrugem_asiatica detectada no desconhecido com 56.1% de confiança. Acionar equipe de manejo fitossanitário.
+[LOG_LOCAL] 2026-06-04 22:31:18 | PRAGA DETECTADA | DETECÇÃO DE PRAGA: mosca_branca detectada no desconhecido com 90.1% de confiança. Acionar equipe de manejo fitossanitário.
+[LOG_LOCAL] 2026-06-04 22:31:18 | PRAGA DETECTADA | DETECÇÃO DE PRAGA: ferrugem_asiatica detectada no desconhecido com 65.1% de confiança. Acionar equipe de manejo fitossanitário.
+[LOG_LOCAL] 2026-06-04 22:31:18 | PRAGA DETECTADA | DETECÇÃO DE PRAGA: lagarta_da_soja detectada no desconhecido com 63.2% de confiança. Acionar equipe de manejo fitossanitário.
+[LOG_LOCAL] 2026-06-04 22:31:18 | PRAGA DETECTADA | DETECÇÃO DE PRAGA: percevejo detectada no desconhecido com 95.7% de confiança. Acionar equipe de manejo fitossanitário.
+[LOG_LOCAL] 2026-06-04 23:23:41 | TESTE FARMTECH | Validação local das melhorias
+[LOG_LOCAL] 2026-06-04 23:29:22 | pH ÁCIDO | ALERTA: pH do solo em 5.24 — ÁCIDO. Aplicar calcário. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 23:29:22 | pH ALCALINO | ALERTA: pH do solo em 7.91 — ALCALINO. Verificar calagem. Ideal: 5.5-7.5.
+[LOG_LOCAL] 2026-06-04 23:30:28 | PRAGA DETECTADA | DETECÇÃO DE PRAGA: percevejo detectada no desconhecido com 91.7% de confiança. Acionar equipe de manejo fitossanitário.
+[LOG_LOCAL] 2026-06-04 23:30:28 | PRAGA DETECTADA | DETECÇÃO DE PRAGA: mosca_branca detectada no desconhecido com 89.4% de confiança. Acionar equipe de manejo fitossanitário.
+[LOG_LOCAL] 2026-06-04 23:30:28 | PRAGA DETECTADA | DETECÇÃO DE PRAGA: ferrugem_asiatica detectada no desconhecido com 91.2% de confiança. Acionar equipe de manejo fitossanitário.
+[LOG_LOCAL] 2026-06-04 23:30:28 | PRAGA DETECTADA | DETECÇÃO DE PRAGA: percevejo detectada no desconhecido com 87.1% de confiança. Acionar equipe de manejo fitossanitário.

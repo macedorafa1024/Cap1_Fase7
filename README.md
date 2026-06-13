@@ -110,3 +110,5 @@ Ao abrir a aplicação, a dashboard apresenta as abas:
 5. Confirme a assinatura pelo e-mail ou celular.
 6. Copie o ARN do tópico para o `.env`.
 7. Execute a dashboard e teste a aba **Fase 5 - Alertas AWS**.
+
+_**Observação:** A integração com AWS SNS foi implementada com suporte a envio real, porém nesta entrega foi utilizada em modo demonstração para evitar disparos externos. Nesse modo, os alertas são registrados localmente no banco SQLite e no arquivo data/alertas_sns.log._

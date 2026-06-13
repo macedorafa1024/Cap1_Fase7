@@ -2,6 +2,8 @@
 
 # FarmTech Solutions - Sistema Integrado de Gestão Agrícola
 
+## Solo - Rafael Gomes de Macedo
+
 ## 👨‍🎓 Integrantes:
 - Rafael Gomes de Macedo - RM566955
 
@@ -28,6 +30,8 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 - <b>.env.example</b>: arquivo de exemplo para configurar variáveis de ambiente, como `OPENWEATHER_API_KEY`, `AWS_REGION`, `SNS_TOPIC_ARN` e `AWS_SNS_TOPIC_ARN`.
 
 - <b>.gitignore</b>: define arquivos locais que não devem ser enviados ao GitHub, como `.env`, cache Python, banco SQLite local e logs.
+
+- <b>assets</b>: contém imagens utilizadas na documentação, incluindo os prints da dashboard na subpasta `assets/prints`.
 
 - <b>data</b>: contém a base `dados_agricolas.csv`, modelos treinados (`.pkl`), scalers, banco SQLite local e logs de alerta gerados em modo demonstração.
 
@@ -112,3 +116,66 @@ Ao abrir a aplicação, a dashboard apresenta as abas:
 7. Execute a dashboard e teste a aba **Fase 5 - Alertas AWS**.
 
 _**Observação:** A integração com AWS SNS foi implementada com suporte a envio real, porém nesta entrega foi utilizada em modo demonstração para evitar disparos externos. Nesse modo, os alertas são registrados localmente no banco SQLite e no arquivo data/alertas_sns.log._
+
+
+### Vídeo de apresentação
+
+Link do vídeo:
+
+```text
+https://youtu.be/3yelVYQAQok
+```
+
+## 🖼️ Evidências da solução
+
+As imagens abaixo demonstram o funcionamento das principais abas da dashboard integrada da Fase 7.
+
+### Visão Geral
+
+A tela inicial apresenta os indicadores consolidados da fazenda, como quantidade de registros, umidade média, rendimento médio e irrigações ligadas, além de gráficos para análise do comportamento dos dados.
+
+![Visão Geral](assets/prints/print1.png)
+
+### Fase 1 - Área & Clima
+
+A Fase 1 reúne o cálculo de área de plantio e o cálculo de insumos, mantendo a lógica inicial do projeto para milho e soja.
+
+![Fase 1 - Área e Clima](assets/prints/print2.png)
+
+### Fase 2 - Banco de Dados
+
+A primeira evidência mostra a base `dados_agricolas.csv`, com os registros dos sensores utilizados pelo sistema.
+
+![Fase 2 - Dados dos sensores](assets/prints/print3.png)
+
+A segunda evidência mostra o SQLite integrado, com talhões, leituras de sensores, irrigações registradas e alertas persistidos no banco local.
+
+![Fase 2 - SQLite integrado](assets/prints/print3-1.png)
+
+### Fase 3 - Sensores IoT
+
+A Fase 3 simula leituras de sensores do ESP32, incluindo umidade, temperatura, pH, nutrientes, chuva, volume de irrigação e status da irrigação.
+
+![Fase 3 - Sensores IoT](assets/prints/print4.png)
+
+### Fase 4 - Machine Learning
+
+A primeira evidência mostra as métricas dos modelos de regressão usados para prever umidade futura e rendimento agrícola.
+
+![Fase 4 - Métricas dos modelos](assets/prints/print5-1.png)
+
+A segunda evidência mostra a previsão de umidade futura e a recomendação automática de irrigação.
+
+![Fase 4 - Previsão de umidade](assets/prints/print5.png)
+
+### Fase 5 - Alertas AWS em modo simulado
+
+A integração com AWS SNS foi mantida em modo simulado nesta entrega para evitar envio real de mensagens para terceiros. Os alertas são registrados no banco SQLite e no arquivo `data/alertas_sns.log`, demonstrando a lógica de mensageria e ações corretivas.
+
+![Fase 5 - Alertas AWS simulados](assets/prints/print6.png)
+
+### Fase 6 - Visão Computacional
+
+A Fase 6 demonstra a análise de imagens da lavoura em modo simulado, identificando imagens saudáveis e imagens com anomalias.
+
+![Fase 6 - Visão Computacional](assets/prints/print7.png)
